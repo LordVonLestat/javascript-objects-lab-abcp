@@ -1,4 +1,5 @@
 var recipes = {}
 function updateObjectWithKeyAndValue(object, key, balue) {
-  return 
+  object[key] = value
+  return object
 }
